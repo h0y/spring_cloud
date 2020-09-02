@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_api_commons" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_config_center" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_consumer_hystrix_dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_consumer_order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_consumer_order_consul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_consumer_order_feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_consumer_order_hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_consumer_order_zookeeper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_eureka_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_eureka_server2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_provider_payment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_provider_payment2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_provider_payment_consul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_provider_payment_hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_cloud_provider_payment_zookeeper" charset="UTF-8" />
+  </component>
+</project>

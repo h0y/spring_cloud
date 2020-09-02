@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_api_commons/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_eureka_server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_eureka_server2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment2/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment_zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment_consul/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_consul/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_feign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment_hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_hystrix_dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_config_center/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

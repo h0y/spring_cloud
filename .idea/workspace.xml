@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1226c398-29ba-4ec7-8da7-9f52d555a882" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_provider_payment/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_consumer_order/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_api_commons/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_eureka_server/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_eureka_server2/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_provider_payment2/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_provider_payment_zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_consumer_order_zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_provider_payment_consul/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_consumer_order_consul/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_consumer_order_feign/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_provider_payment_hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_consumer_hystrix_dashboard/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_gateway/target/" />
+    <ignored path="$PROJECT_DIR$/spring_cloud_config_center/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_cloud_config_center/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring_cloud_config_center/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringCloudConfigCenterApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring_cloud_config_center/src/main/java/com/test/SpringCloudConfigCenterApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ribbon</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment_zookeeper/src/main/java/com/test/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment_zookeeper/src/main/java/com/test/SpringCloudProviderPaymentZookeeperApplication.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_zookeeper/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_zookeeper/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_zookeeper/src/main/java/com/test/SpringCloudConsumerOrderZookeeperApplication.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_zookeeper/src/main/java/com/config/ApplicationContextConfig.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_zookeeper/src/main/java/com/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment_consul/src/main/java/com/test/SpringCloudProviderPaymentConsulApplication.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment_consul/src/main/java/com/test/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_consul/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_consul/src/main/java/com/test/SpringCloudConsumerOrderConsulApplication.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment_consul/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_consul/src/main/java/com/test/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment_consul/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_consul/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order/src/main/java/com/rule/MySelfRule.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order/src/main/java/com/test/SpringCloudConsumerOrderApplication.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order/src/main/java/com/test/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_feign/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_feign/src/main/java/com/test/SpringCloudConsumerOrderFeignApplication.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_feign/src/main/java/com/test/controller/OrderFeingController.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_feign/src/main/java/com/test/controller/OrderFeignController.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_feign/src/main/java/com/test/service/PaymentFeignService.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment/src/main/java/com/test/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_feign/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_cloud_eureka_server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment_hystrix/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment_hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/src/main/java/com/test/SpringCloudConsumerOrderHystrixApplication.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/src/main/java/com/test/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/src/main/java/com/test/service/PaymentFallbackService.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/src/main/java/com/test/service/PaymentService.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment_hystrix/src/main/java/com/test/service/PaymentService.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment_hystrix/src/main/java/com/test/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_hystrix_dashboard/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_hystrix_dashboard/src/main/java/com/test/SpringCloudConsumerHystrixDashboardApplication.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_hystrix_dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment_hystrix/src/main/java/com/test/SpringCloudProviderPaymentHystrixApplication.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_gateway/src/main/java/com/test/SpringCloudGatewayApplication.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_gateway/src/main/java/com/test/config/GatewayConfig.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_gateway/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_cloud_gateway/src/test/java/Test.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_gateway/src/main/java/com/test/filter/LogGatewayFilter.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_config_center/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_config_center/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_cloud_config_center/src/main/java/com/test/SpringCloudConfigCenterApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/Program Files/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Program Files\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="410" />
+    <option name="width" value="1628" />
+    <option name="height" value="623" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_cloud_config_center" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_cloud_config_center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_cloud_config_center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_cloud_config_center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_cloud_config_center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_cloud_config_center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="spring_cloud_config_center" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="IRule&#9;PSI&#9;JAVA://com.netflix.loadbalancer.IRule" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\spring_cloud\spring_cloud_consumer_order_consul\src\main\java\com\test" />
+      <recent name="E:\code\spring_cloud\spring_cloud_consumer_order_zookeeper\src\main\java\com" />
+      <recent name="E:\code\spring_cloud\spring_cloud_provider_payment2\src\main\java\com\test" />
+      <recent name="E:\code\spring_cloud\spring_cloud_provider_payment2\src\main\resources" />
+      <recent name="E:\code\spring_cloud" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\spring_cloud\spring_cloud_provider_payment\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.25309044" />
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="spring_cloud_gateway" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SpringCloudConsumerHystrixDashboardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_cloud_consumer_hystrix_dashboard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.SpringCloudConsumerHystrixDashboardApplication" />
+    </configuration>
+    <configuration name="SpringCloudConsumerOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_cloud_consumer_order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.SpringCloudConsumerOrderApplication" />
+    </configuration>
+    <configuration name="SpringCloudConsumerOrderConsulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring_cloud_consumer_order_consul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.SpringCloudConsumerOrderConsulApplication" />
+    </configuration>
+    <configuration name="SpringCloudConsumerOrderFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_cloud_consumer_order_feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.SpringCloudConsumerOrderFeignApplication" />
+    </configuration>
+    <configuration name="SpringCloudConsumerOrderHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_cloud_consumer_order_hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.SpringCloudConsumerOrderHystrixApplication" />
+    </configuration>
+    <configuration name="SpringCloudConsumerOrderZookeeperApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_cloud_consumer_order_zookeeper" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.SpringCloudConsumerOrderZookeeperApplication" />
+    </configuration>
+    <configuration name="SpringCloudEurekaServer2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_cloud_eureka_server2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.SpringCloudEurekaServer2Application" />
+    </configuration>
+    <configuration name="SpringCloudEurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_cloud_eureka_server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.SpringCloudEurekaServerApplication" />
+    </configuration>
+    <configuration name="SpringCloudGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring_cloud_gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.SpringCloudGatewayApplication" />
+    </configuration>
+    <configuration name="SpringCloudProviderPayment2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_cloud_provider_payment2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.SpringCloudProviderPayment2Application" />
+    </configuration>
+    <configuration name="SpringCloudProviderPaymentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_cloud_provider_payment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.SpringCloudProviderPaymentApplication" />
+    </configuration>
+    <configuration name="SpringCloudProviderPaymentConsulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_cloud_provider_payment_consul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.SpringCloudProviderPaymentConsulApplication" />
+    </configuration>
+    <configuration name="SpringCloudProviderPaymentHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_cloud_provider_payment_hystrix" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.SpringCloudProviderPaymentHystrixApplication" />
+    </configuration>
+    <configuration name="SpringCloudProviderPaymentZookeeperApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_cloud_provider_payment_zookeeper" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.SpringCloudProviderPaymentZookeeperApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringCloudConsumerOrderApplication" />
+      <item itemvalue="Spring Boot.SpringCloudEurekaServerApplication" />
+      <item itemvalue="Spring Boot.SpringCloudEurekaServer2Application" />
+      <item itemvalue="Spring Boot.SpringCloudProviderPayment2Application" />
+      <item itemvalue="Spring Boot.SpringCloudProviderPaymentApplication" />
+      <item itemvalue="Spring Boot.SpringCloudProviderPaymentZookeeperApplication" />
+      <item itemvalue="Spring Boot.SpringCloudProviderPaymentConsulApplication" />
+      <item itemvalue="Spring Boot.SpringCloudConsumerOrderZookeeperApplication" />
+      <item itemvalue="Spring Boot.SpringCloudConsumerOrderFeignApplication" />
+      <item itemvalue="Spring Boot.SpringCloudProviderPaymentHystrixApplication" />
+      <item itemvalue="Spring Boot.SpringCloudConsumerOrderHystrixApplication" />
+      <item itemvalue="Spring Boot.SpringCloudConsumerHystrixDashboardApplication" />
+      <item itemvalue="Spring Boot.SpringCloudConsumerOrderConsulApplication" />
+      <item itemvalue="Spring Boot.SpringCloudGatewayApplication" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Spring Boot.SpringCloudGatewayApplication" />
+        <item itemvalue="Spring Boot.SpringCloudConsumerOrderConsulApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1226c398-29ba-4ec7-8da7-9f52d555a882" name="Default" comment="" />
+      <created>1597230752085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597230752085</updated>
+      <workItem from="1597230760661" duration="5392000" />
+      <workItem from="1597301593279" duration="1844000" />
+      <workItem from="1597303669129" duration="2620000" />
+      <workItem from="1597317658442" duration="5951000" />
+      <workItem from="1597389108997" duration="987000" />
+      <workItem from="1597404768222" duration="5506000" />
+      <workItem from="1597455986148" duration="544000" />
+      <workItem from="1597475565046" duration="2289000" />
+      <workItem from="1597494080559" duration="2790000" />
+      <workItem from="1597536742104" duration="5555000" />
+      <workItem from="1597563339408" duration="1938000" />
+      <workItem from="1597646983384" duration="3573000" />
+      <workItem from="1597662951976" duration="571000" />
+      <workItem from="1597710155819" duration="5058000" />
+      <workItem from="1597736197009" duration="3029000" />
+      <workItem from="1597749821358" duration="2099000" />
+      <workItem from="1597798297833" duration="5176000" />
+      <workItem from="1597820081290" duration="1091000" />
+      <workItem from="1597836037154" duration="1778000" />
+      <workItem from="1597908190596" duration="2759000" />
+      <workItem from="1597923199710" duration="3730000" />
+      <workItem from="1598009154944" duration="1290000" />
+      <workItem from="1598079689238" duration="3421000" />
+      <workItem from="1598094990337" duration="3380000" />
+      <workItem from="1598144666515" duration="4886000" />
+      <workItem from="1598231501532" duration="3413000" />
+      <workItem from="1598251724376" duration="3347000" />
+      <workItem from="1598266735739" duration="3988000" />
+      <workItem from="1598340851672" duration="578000" />
+      <workItem from="1598355442498" duration="602000" />
+      <workItem from="1598424445875" duration="3939000" />
+      <workItem from="1598440521892" duration="3792000" />
+      <workItem from="1598514198084" duration="2034000" />
+      <workItem from="1598527468974" duration="2146000" />
+      <workItem from="1598876242074" duration="1662000" />
+      <workItem from="1599046823091" duration="387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="103145000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="410" width="1628" height="623" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32991454" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.2869898" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run Dashboard" order="6" weight="0.63917524" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5484536" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3093112" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Problems" order="15" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3270142" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_consul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_consul/src/main/java/com/test/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_consul/src/main/java/com/test/SpringCloudConsumerOrderConsulApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.2.4.RELEASE/spring-cloud-starter-netflix-eureka-client-2.2.4.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="190" column="4" selection-start-line="190" selection-start-column="4" selection-end-line="190" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order/src/main/java/com/test/config/ApplicationContextConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.netflix.loadbalancer.IRule">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.netflix.loadbalancer.IRule</OriginalElement>
+          <nodes>
+            <node x="" y="">com.netflix.loadbalancer.IRule</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="39.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JIGSAW/ribbon.loadbalancer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JIGSAW</ID>
+          <OriginalElement>ribbon.loadbalancer</OriginalElement>
+          <nodes>
+            <node x="" y="">ribbon.loadbalancer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="75.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">rx</node>
+            <node x="" y="">eureka</node>
+            <node x="" y="">reactor</node>
+            <node x="" y="">mapper</node>
+            <node x="" y="">toolbarButtonGraphics</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">sql</node>
+            <node x="" y="">win32-x86</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">java</node>
+            <node x="" y="">freemarker</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">jersey</node>
+            <node x="" y="">net</node>
+            <node x="" y="">images</node>
+            <node x="" y="">junit</node>
+            <node x="" y="">static</node>
+            <node x="" y="">org</node>
+            <node x="" y="">ch</node>
+            <node x="" y="">io</node>
+            <node x="" y="">templates</node>
+            <node x="" y="">antlr</node>
+            <node x="" y="">mozilla</node>
+            <node x="" y="">aj</node>
+            <node x="" y="">google</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">groovyjarjarantlr</node>
+            <node x="" y="">win32-x86-64</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.856551724137931" x="321.0" y="343.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/IRule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order/src/main/java/com/rule/MySelfRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order/src/main/java/com/test/SpringCloudConsumerOrderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order/src/main/java/com/test/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="15" column="81" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment_consul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_feign/src/main/java/com/test/SpringCloudConsumerOrderFeignApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-openfeign-core/2.2.4.RELEASE/spring-cloud-openfeign-core-2.2.4.RELEASE.jar!/org/springframework/cloud/openfeign/FeignClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment2/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/9.0.37/tomcat-embed-core-9.0.37.jar!/org/apache/tomcat/jni/Time.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_feign/src/main/java/com/test/service/PaymentFeignService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="10" column="52" selection-start-line="10" selection-start-column="52" selection-end-line="10" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_feign/src/main/java/com/test/controller/OrderFeignController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_feign/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_eureka_server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="41" column="18" selection-start-line="13" selection-start-column="4" selection-end-line="41" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/src/main/java/com/test/SpringCloudConsumerOrderHystrixApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/src/main/java/com/test/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/src/main/java/com/test/service/PaymentFallbackService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/src/main/java/com/test/service/PaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment_hystrix/src/main/java/com/test/service/PaymentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="40" column="50" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment_hystrix/src/main/java/com/test/controller/PaymentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_hystrix_dashboard/src/main/java/com/test/SpringCloudConsumerHystrixDashboardApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_hystrix_dashboard/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment_hystrix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="39" column="45" lean-forward="true" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment_hystrix/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_hystrix_dashboard/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment_hystrix/src/main/java/com/test/SpringCloudProviderPaymentHystrixApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_gateway/src/main/java/com/test/SpringCloudGatewayApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment/src/main/java/com/test/controller/PaymentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_gateway/src/main/java/com/test/config/GatewayConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_gateway/src/test/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_gateway/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_gateway/src/main/java/com/test/filter/LogGatewayFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" selection-start-line="10" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_config_center/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="57" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_config_center/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="66" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_config_center/src/main/java/com/test/SpringCloudConfigCenterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring_cloud</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

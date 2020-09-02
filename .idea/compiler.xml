@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring_cloud_api_commons" />
+        <module name="spring_cloud_config_center" />
+        <module name="spring_cloud_consumer_hystrix_dashboard" />
+        <module name="spring_cloud_consumer_order" />
+        <module name="spring_cloud_consumer_order_consul" />
+        <module name="spring_cloud_consumer_order_feign" />
+        <module name="spring_cloud_consumer_order_hystrix" />
+        <module name="spring_cloud_consumer_order_zookeeper" />
+        <module name="spring_cloud_eureka_server" />
+        <module name="spring_cloud_eureka_server2" />
+        <module name="spring_cloud_gateway" />
+        <module name="spring_cloud_provider_payment" />
+        <module name="spring_cloud_provider_payment2" />
+        <module name="spring_cloud_provider_payment_consul" />
+        <module name="spring_cloud_provider_payment_hystrix" />
+        <module name="spring_cloud_provider_payment_zookeeper" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
