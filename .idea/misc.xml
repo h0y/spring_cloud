@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/spring_cloud_consumer_hystrix_dashboard/pom.xml" />
         <option value="$PROJECT_DIR$/spring_cloud_gateway/pom.xml" />
         <option value="$PROJECT_DIR$/spring_cloud_config_center/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_config_client/pom.xml" />
       </list>
     </option>
   </component>

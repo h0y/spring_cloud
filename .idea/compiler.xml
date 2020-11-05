@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring_cloud_api_commons" />
         <module name="spring_cloud_config_center" />
+        <module name="spring_cloud_config_client" />
         <module name="spring_cloud_consumer_hystrix_dashboard" />
         <module name="spring_cloud_consumer_order" />
         <module name="spring_cloud_consumer_order_consul" />
