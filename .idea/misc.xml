@@ -22,6 +22,7 @@
         <option value="$PROJECT_DIR$/spring_cloud_gateway/pom.xml" />
         <option value="$PROJECT_DIR$/spring_cloud_config_center/pom.xml" />
         <option value="$PROJECT_DIR$/spring_cloud_config_client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_config_client2/pom.xml" />
       </list>
     </option>
   </component>

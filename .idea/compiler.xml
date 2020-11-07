@@ -9,6 +9,7 @@
         <module name="spring_cloud_api_commons" />
         <module name="spring_cloud_config_center" />
         <module name="spring_cloud_config_client" />
+        <module name="spring_cloud_config_client2" />
         <module name="spring_cloud_consumer_hystrix_dashboard" />
         <module name="spring_cloud_consumer_order" />
         <module name="spring_cloud_consumer_order_consul" />
@@ -25,5 +26,8 @@
         <module name="spring_cloud_provider_payment_zookeeper" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring_clod_config_client2" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
