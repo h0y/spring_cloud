@@ -28,6 +28,9 @@
         <module>spring_cloud_config_center</module>
         <module>spring_cloud_config_client</module>
         <module>spring_cloud_config_client2</module>
+        <module>spring_cloud_stream_rabbitmq_provider</module>
+        <module>spring_cloud_stream_rabbitmq_consumer</module>
+        <module>spring_cloud_stream_rabbitmq_consumer2</module>
     </modules>
 
     <properties>

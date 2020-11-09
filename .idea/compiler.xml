@@ -24,6 +24,9 @@
         <module name="spring_cloud_provider_payment_consul" />
         <module name="spring_cloud_provider_payment_hystrix" />
         <module name="spring_cloud_provider_payment_zookeeper" />
+        <module name="spring_cloud_stream_rabbitmq_consumer" />
+        <module name="spring_cloud_stream_rabbitmq_consumer2" />
+        <module name="spring_cloud_stream_rabbitmq_provider" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
