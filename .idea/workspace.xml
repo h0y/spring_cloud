@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1226c398-29ba-4ec7-8da7-9f52d555a882" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_cloud_config_center/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_cloud_config_center/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_cloud_config_client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_cloud_config_client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_cloud_config_client2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_cloud_config_client2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_cloud_consumer_order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_cloud_consumer_order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_cloud_consumer_order/src/main/java/com/test/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_cloud_consumer_order/src/main/java/com/test/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_cloud_consumer_order/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_cloud_consumer_order/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_cloud_provider_payment/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_cloud_provider_payment/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_cloud_provider_payment/src/main/java/com/test/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_cloud_provider_payment/src/main/java/com/test/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_cloud_provider_payment/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_cloud_provider_payment/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,7 +56,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,12 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_feign/src/main/java/com/test/controller/OrderFeingController.java" />
-        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_feign/src/main/java/com/test/controller/OrderFeignController.java" />
-        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_feign/src/main/java/com/test/service/PaymentFeignService.java" />
-        <option value="$PROJECT_DIR$/spring_cloud_provider_payment/src/main/java/com/test/controller/PaymentController.java" />
-        <option value="$PROJECT_DIR$/spring_cloud_consumer_order_feign/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring_cloud_eureka_server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring_cloud_provider_payment_hystrix/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring_cloud_provider_payment_hystrix/pom.xml" />
         <option value="$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/src/main/resources/application.properties" />
@@ -129,6 +122,12 @@
         <option value="$PROJECT_DIR$/spring_cloud_stream_rabbitmq_consumer2/src/main/java/com/test/controller/ReceiveMessageController2.java" />
         <option value="$PROJECT_DIR$/spring_cloud_stream_rabbitmq_consumer/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/spring_cloud_stream_rabbitmq_consumer2/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_cloud_provider_payment/src/main/java/com/test/controller/PaymentController.java" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_cloud_consumer_order/src/main/java/com/test/controller/OrderController.java" />
       </list>
     </option>
   </component>
@@ -177,6 +176,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -185,140 +186,10 @@
               <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="spring_cloud_stream_rabbitmq_consumer2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -529,12 +400,12 @@
       <item itemvalue="Spring Boot.SpringCloudConfigClientApplication" />
       <item itemvalue="Spring Boot.SpringClodConfigClient2Application" />
       <item itemvalue="Spring Boot.SpringCloudStreamRabbitmqProviderApplication" />
+      <item itemvalue="Spring Boot.SpringCloudStreamRabbitmqConsumer2Application" />
+      <item itemvalue="Spring Boot.SpringCloudStreamRabbitmqConsumerApplication" />
       <item itemvalue="Spring Boot.SpringCloudConsumerOrderConsulApplication" />
       <item itemvalue="Spring Boot.SpringCloudGatewayApplication" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Spring Boot.SpringCloudConfigCenterApplication" />
-      <item itemvalue="Spring Boot.SpringCloudStreamRabbitmqConsumer2Application" />
-      <item itemvalue="Spring Boot.SpringCloudStreamRabbitmqConsumerApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -602,11 +473,12 @@
       <workItem from="1604799627289" duration="576000" />
       <workItem from="1604835147582" duration="5658000" />
       <workItem from="1604906749517" duration="2361000" />
+      <workItem from="1605267559448" duration="2253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127748000" />
+    <option name="totallyTimeSpent" value="130001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="444" width="1628" height="589" extended-state="0" />
@@ -623,16 +495,17 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3270142" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run Dashboard" order="6" weight="0.58076227" />
+      <window_info anchor="bottom" id="Run Dashboard" order="6" weight="0.58" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.5484536" />
-      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Spring" order="13" weight="0.3288889" />
       <window_info anchor="bottom" id="Terminal" order="14" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2359694" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23915817" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -641,7 +514,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Problems" order="15" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3270142" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -654,20 +526,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/src/main/java/com/test/SpringCloudConsumerOrderHystrixApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order_hystrix/src/main/java/com/test/controller/OrderController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -700,13 +558,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -761,24 +612,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment/src/main/java/com/test/controller/PaymentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="73" column="20" lean-forward="true" selection-start-line="73" selection-start-column="20" selection-end-line="73" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring_cloud_gateway/src/main/java/com/test/config/GatewayConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -800,13 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="10" selection-start-line="10" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1001,6 +831,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="20" selection-start-line="20" selection-end-line="21" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_provider_payment/src/main/java/com/test/controller/PaymentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_cloud_consumer_order/src/main/java/com/test/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="43" column="3" selection-start-line="43" selection-start-column="3" selection-end-line="46" selection-end-column="5" />
         </state>
       </provider>
     </entry>
