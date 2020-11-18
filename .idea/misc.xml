@@ -26,6 +26,10 @@
         <option value="$PROJECT_DIR$/spring_cloud_stream_rabbitmq_provider/pom.xml" />
         <option value="$PROJECT_DIR$/spring_cloud_stream_rabbitmq_consumer/pom.xml" />
         <option value="$PROJECT_DIR$/spring_cloud_stream_rabbitmq_consumer2/pom.xml" />
+        <option value="$PROJECT_DIR$/alibaba_cloud_provider_payment/pom.xml" />
+        <option value="$PROJECT_DIR$/alibaba_cloud_provider_payment2/pom.xml" />
+        <option value="$PROJECT_DIR$/alibaba_cloud_consumer_order/pom.xml" />
+        <option value="$PROJECT_DIR$/alibaba_cloud_nacos_config_client/pom.xml" />
       </list>
     </option>
   </component>

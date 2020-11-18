@@ -31,6 +31,10 @@
         <module>spring_cloud_stream_rabbitmq_provider</module>
         <module>spring_cloud_stream_rabbitmq_consumer</module>
         <module>spring_cloud_stream_rabbitmq_consumer2</module>
+        <module>alibaba_cloud_provider_payment</module>
+        <module>alibaba_cloud_provider_payment2</module>
+        <module>alibaba_cloud_consumer_order</module>
+        <module>alibaba_cloud_nacos_config_client</module>
     </modules>
 
     <properties>
@@ -41,6 +45,13 @@
 
     <dependencyManagement>
         <dependencies>
+            <dependency>
+                <groupId>com.alibaba.cloud</groupId>
+                <artifactId>spring-cloud-alibaba-dependencies</artifactId>
+                <version>2.2.3.RELEASE</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
             <dependency>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-dependencies</artifactId>

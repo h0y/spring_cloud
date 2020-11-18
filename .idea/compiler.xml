@@ -6,6 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="alibaba_cloud_consumer_order" />
+        <module name="alibaba_cloud_nacos_config_client" />
+        <module name="alibaba_cloud_provider_payment" />
+        <module name="alibaba_cloud_provider_payment2" />
         <module name="spring_cloud_api_commons" />
         <module name="spring_cloud_config_center" />
         <module name="spring_cloud_config_client" />
