@@ -35,6 +35,10 @@
         <module>alibaba_cloud_provider_payment2</module>
         <module>alibaba_cloud_consumer_order</module>
         <module>alibaba_cloud_nacos_config_client</module>
+        <module>alibaba_cloud_sentinel_service</module>
+        <module>alibaba_cloud_provider_payment3</module>
+        <module>alibaba_cloud_provider_payment4</module>
+        <module>alibaba_cloud_nacos_consumer_order</module>
     </modules>
 
     <properties>

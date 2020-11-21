@@ -30,6 +30,10 @@
         <option value="$PROJECT_DIR$/alibaba_cloud_provider_payment2/pom.xml" />
         <option value="$PROJECT_DIR$/alibaba_cloud_consumer_order/pom.xml" />
         <option value="$PROJECT_DIR$/alibaba_cloud_nacos_config_client/pom.xml" />
+        <option value="$PROJECT_DIR$/alibaba_cloud_sentinel_service/pom.xml" />
+        <option value="$PROJECT_DIR$/alibaba_cloud_provider_payment3/pom.xml" />
+        <option value="$PROJECT_DIR$/alibaba_cloud_provider_payment4/pom.xml" />
+        <option value="$PROJECT_DIR$/alibaba_cloud_nacos_consumer_order/pom.xml" />
       </list>
     </option>
   </component>

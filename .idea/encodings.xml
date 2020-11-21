@@ -4,8 +4,12 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/alibaba_cloud_consumer_order" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/alibaba_cloud_nacos_config_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alibaba_cloud_nacos_consumer_order" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/alibaba_cloud_provider_payment" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/alibaba_cloud_provider_payment2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alibaba_cloud_provider_payment3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alibaba_cloud_provider_payment4" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/alibaba_cloud_sentinel_service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_cloud_api_commons" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_cloud_config_center" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring_cloud_config_client" charset="UTF-8" />
